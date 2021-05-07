@@ -84,7 +84,7 @@ function preload() {
   goodbase = loadImage('data/goodbase.png');
   evilbase = loadImage('data/evilbase.png');
   goldcoin = loadImage('assets/goldcoin.png');
-  soundFormats('ogg', 'mp3');
+  //soundFormats('ogg', 'mp3');
   maintheme = loadSound('data/maintheme.mp3');
   forest = loadSound('data/forest.mp3');
   desert = loadSound('data/desert.mp3');
